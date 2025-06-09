@@ -1,0 +1,6 @@
+.env
+vendor/
+.idea/
+.vscode/
+*.log
+ec2-user-data.sh
